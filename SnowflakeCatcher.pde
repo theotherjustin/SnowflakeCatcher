@@ -1,4 +1,4 @@
-Snowflake [] snowgie = new Snowflake[500];
+Snowflake [] snowgie = new Snowflake[100];
 void setup()
 {
   //your code here
